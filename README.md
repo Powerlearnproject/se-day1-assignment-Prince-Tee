@@ -4,8 +4,11 @@ Software Engineering Day1 Assignment
 
 ### Part 1: Introduction to Software Engineering
 
-**1. What is Software Engineering?**
-Software engineering the process of designing, developing, and maintaining software. It encompasses a range of methodologies, tools, and practices aimed at building high-quality software systems that meet the requirements of users and stakeholders.
+**1. Software Engineering?**
+
+The process of designing, developing, and maintaining software. 
+
+It encompasses a range of methodologies, tools, and practices aimed at building high-quality software systems that meet the requirements of users and stakeholders.
 
 **Importance in the Technology Industry:**
 - **Efficiency:** Software engineering practices help streamline the development process, reducing the time and resources required to build software.
